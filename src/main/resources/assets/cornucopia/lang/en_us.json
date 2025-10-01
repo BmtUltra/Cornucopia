@@ -1,0 +1,18 @@
+{
+  "cornucopia.config.enable_clear_foods": "Empty the food after converting the goat horn into a cornucopia",
+  "cornucopia.config.login_with_cornucopia": "Join the world with Cornucopia",
+  "item.cornucopia.cornucopia": "Cornucopia",
+  "item.minecraft.cornucopia.description": "It symbolizes harvest and prosperity",
+  "item.minecraft.goat_horn.description": "Fill it with food, right click and try",
+  "item.minecraft.cornucopia.fullness": "%s/%s",
+  "itemGroup.cornucopia": "Cornucopia",
+  "key.categories.cornucopia": "Cornucopia",
+  "key.cornucopia.drop_cornucopia_contents": "drop food from cornucopia",
+  "screen.cornucopia.cornucopia_item_title": "Cornucopia",
+  "advancements.husbandry.using_cornucopia.title": "Cornu...copia?",
+  "advancements.husbandry.using_cornucopia.description": "Surrounded by abundance",
+  "advancements.husbandry.yummy.title":"What?",
+  "advancements.husbandry.yummy.description":"Yummy, one more",
+  "cornucopia.config.life_threshold_value": "life threshold value",
+  "enchantment.cornucopia.capacity": "Capacity"
+}

@@ -1,0 +1,18 @@
+{
+  "cornucopia.config.enable_clear_foods": "山羊角转换为丰饶角后清空食物",
+  "cornucopia.config.login_with_cornucopia": "加入世界自带丰饶角",
+  "item.cornucopia.cornucopia": "丰饶之角",
+  "item.minecraft.cornucopia.description": "象征着丰收和富饶",
+  "item.minecraft.goat_horn.description": "用食物装满它，再右键试试",
+  "item.minecraft.cornucopia.fullness": "%s/%s",
+  "itemGroup.cornucopia": "丰饶之角",
+  "key.categories.cornucopia": "丰饶之角",
+  "key.cornucopia.drop_cornucopia_contents": "丢弃丰饶角中的食物",
+  "screen.cornucopia.cornucopia_item_title": "丰饶之角",
+  "advancements.husbandry.using_cornucopia.title": "丰饶...角?",
+  "advancements.husbandry.using_cornucopia.description": "簇拥丰饶",
+  "advancements.husbandry.yummy.title":"嗯?",
+  "advancements.husbandry.yummy.description":"好吃，再来一个",
+  "cornucopia.config.life_threshold_value": "生命阈值",
+  "enchantment.cornucopia.capacity": "容量"
+}

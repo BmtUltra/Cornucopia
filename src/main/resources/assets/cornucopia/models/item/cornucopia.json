@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cornucopia:item/cornucopia"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cornucopia:weight": 0.25
+      },
+      "model": "cornucopia:item/cornucopia_1"
+    },
+    {
+      "predicate": {
+        "cornucopia:weight": 0.5
+      },
+      "model": "cornucopia:item/cornucopia_2"
+    },
+    {
+      "predicate": {
+        "cornucopia:weight": 0.75
+      },
+      "model": "cornucopia:item/cornucopia_3"
+    }
+  ]
+}
+
